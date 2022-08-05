@@ -70,7 +70,7 @@ make it right
 
 Singing in a giant cave with a skylight coming through. Singing to the skylight. Tripod sensors deployed around.
 
-!()[https://github.com/HITECHCRIME/HC_SG337_Wretched/blob/master/Screenshot%202022-08-05%20at%2014.42.11.png?raw=true]
+!()[https://github.com/HITECHCRIME/HC_SG337_Wretched/blob/master/Screenshot%202022-08-05%20at%2014.42.11.png]
 
 ## Short Cinematic Film
 
