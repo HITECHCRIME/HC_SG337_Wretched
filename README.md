@@ -1,4 +1,4 @@
-[cover code] ![](57175019_319474918741616_8502199518755923887_n.jpg)
+[cover code] ![](f79_spskylightcave.jpeg)
 
 # MOTHNODE_ Wretched
 
@@ -69,6 +69,8 @@ make it right
 ## Music Video
 
 Singing in a giant cave with a skylight coming through. Singing to the skylight. Tripod sensors deployed around.
+
+!()[Screenshot 2022-08-05 at 14.42.11.png]
 
 ## Short Cinematic Film
 
