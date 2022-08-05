@@ -1,5 +1,5 @@
 ![](f79_spskylightcave.jpeg)
-!()[cave.png]
+![](cave.png)
 
 # MOTHNODE_ Wretched
 
