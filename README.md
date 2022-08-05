@@ -1,4 +1,4 @@
-[cover code] ![](f79_spskylightcave.jpeg)
+![](f79_spskylightcave.jpeg)
 
 # MOTHNODE_ Wretched
 
